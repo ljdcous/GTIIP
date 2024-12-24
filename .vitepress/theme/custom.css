@@ -1,0 +1,13 @@
+.VPNav {
+    position: fixed !important;
+}
+
+.VPNavBar {
+    background-color: var(--vp-nav-bg-color)!important;
+}
+.VPNavBar:not(.has-sidebar):not(.home.top) {
+    background-color: var(--vp-nav-bg-color)!important;
+}
+.image{
+    margin: -26px -24px -48px!important;
+}
